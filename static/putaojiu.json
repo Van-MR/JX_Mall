@@ -1,0 +1,183 @@
+{
+    "promoList": [
+        
+        {
+            "promo": [
+                {
+                    "type": 22,
+                    "name": "满减",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#c58cff"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 50129,
+                "brandId": 3797,
+                "category": 2,
+                "imgPath": "http://img07.jiuxian.com/2017/0902/641753ce6154406aaf8e1af446503c464.jpg",
+                "pname": "【礼盒自营】法国整箱装茉莉花6大产区AOP干红葡萄酒礼盒套装750ml*6（升级装限量版）",
+                "jxPrice": 799,
+                "actPrice": 799,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "限时抢购",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ffa855"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 28581,
+                "brandId": 2229,
+                "category": 2,
+                "imgPath": "http://img07.jiuxian.com/2016/0506/3f1e571c3d844bb5a1c4789e19a5a0284.jpg",
+                "pname": "【酒仙独家】澳洲红酒天鹅庄家族经典西拉干红葡萄酒黑色单支礼盒（双支装）",
+                "jxPrice": 198,
+                "actPrice": 178,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "限时抢购",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ffa855"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 51623,
+                "brandId": 3793,
+                "category": 2,
+                "imgPath": "http://img07.jiuxian.com/2017/0923/cfc07080db9e4c22a62986ad3333f3004.jpg",
+                "pname": "【酒仙自营】法国整箱红酒拉奥尔勃艮第干红葡萄酒750ml（6瓶礼袋装）",
+                "jxPrice": 534,
+                "actPrice": 269,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "限时抢购",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ffa855"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 51541,
+                "brandId": 944,
+                "category": 2,
+                "imgPath": "http://img07.jiuxian.com/2017/0921/254df327ff114adaaf08ee28c1e945284.jpg",
+                "pname": "【礼盒自营】法国红酒香奈西拉干红葡萄酒750ml双支礼盒套装",
+                "jxPrice": 204,
+                "actPrice": 169,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": false
+            }
+        },
+         {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "限时抢购",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ffa855"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 50659,
+                "brandId": 3941,
+                "category": 2,
+                "imgPath": "http://img10.jiuxian.com/2017/0909/4d228dbf82644a82965b89c0f8fc94234.jpg",
+                "pname": "【礼盒自营】智利干露.克拉克干红葡萄酒750ml*2（双支礼盒套装）",
+                "jxPrice": 157,
+                "actPrice": 99,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+       
+       
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "限时抢购",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ffa855"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 51607,
+                "brandId": 4179,
+                "category": 2,
+                "imgPath": "http://img10.jiuxian.com/2017/0922/6651e6fc47774bc68551f021036739424.jpg",
+                "pname": "【礼盒】整箱红酒西班牙DO级安徒生美人鱼干红葡萄酒750ml*12 +鳄鱼皮六支装皮盒中秋礼盒套装",
+                "jxPrice": 567,
+                "actPrice": 339,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+      
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "限时抢购",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ffa855"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 44314,
+                "brandId": 4209,
+                "category": 2,
+                "imgPath": "http://img08.jiuxian.com/2017/0621/88143270f93844fbae8b2e72a898c0fc4.jpg",
+                "pname": "【礼盒自营】智利魅利缤纷葡萄酒6支木礼盒套装",
+                "jxPrice": 219,
+                "actPrice": 189,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        }
+    ]
+}

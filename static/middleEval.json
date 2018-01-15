@@ -1,0 +1,299 @@
+{
+    "proEvalList": [
+        {
+            "userName": "酒***友",
+            "userImg": "https://misc.jiuxian.com/img/usercenter/photo.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l3.png",
+            "userRankName": "酒圣",
+            "userLevel": 3,
+            "createTime": 1501859084000,
+            "createTimeStr": "2017-08-04 23:04:44",
+            "firstComment": {
+                "comentId": 4594521,
+                "comentScore": 3,
+                "packageScore": 3,
+                "serviceAttitudeScore": 3,
+                "deliverySpeedScore": 2,
+                "coment": "感觉还不错      酒还没喝希望不错",
+                "imgList": [
+                    {
+                        "imgId": 498005,
+                        "imgUrl": "http://img07.jiuxian.com/eva//2017/0804/a7028345c48d4ce0951b400a881f716c.jpg"
+                    }
+                ],
+                "responseOfService": null,
+                "responseOfServiceDate": null,
+                "createTime": 1501859084000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-08-04 23:04:44"
+        },
+        {
+            "userName": "jxw86767264",
+            "userImg": "https://misc.jiuxian.com/img/usercenter/photo.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l2.png",
+            "userRankName": "酒鬼",
+            "userLevel": 2,
+            "createTime": 1501557950000,
+            "createTimeStr": "2017-08-01 11:25:50",
+            "firstComment": {
+                "comentId": 4580425,
+                "comentScore": 4,
+                "packageScore": 5,
+                "serviceAttitudeScore": 5,
+                "deliverySpeedScore": 5,
+                "coment": "没有对比就没有伤害，首先第一次买，不知道要先领个卷，吃了一点亏，其次，用苏打粉试过可以，但是单喝口感还行，如果先喝好点的红酒再来喝这款，就会有难以下咽的感觉，,包装给力,送货快",
+                "imgList": [
+                    {
+                        "imgId": 496844,
+                        "imgUrl": "http://img10.jiuxian.com/eva//2017/0801/d06f820a1d7f4d8cab2b0928726b10a9.jpg"
+                    },
+                    {
+                        "imgId": 496845,
+                        "imgUrl": "http://img09.jiuxian.com/eva//2017/0801/ddd8370fcc98437e9c88cdbb25f68348.jpg"
+                    },
+                    {
+                        "imgId": 496846,
+                        "imgUrl": "http://img07.jiuxian.com/eva//2017/0801/620170bd32df4731adf1897b693fe27d.jpg"
+                    },
+                    {
+                        "imgId": 496847,
+                        "imgUrl": "http://img10.jiuxian.com/eva//2017/0801/10025fef27f34c7eb33bb42a3a56930e.jpg"
+                    },
+                    {
+                        "imgId": 496848,
+                        "imgUrl": "http://img10.jiuxian.com/eva//2017/0801/01fd7c4b113742b6858a95935260e173.jpg"
+                    }
+                ],
+                "responseOfService": null,
+                "responseOfServiceDate": null,
+                "createTime": 1501557950000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-08-01 11:25:50"
+        },
+        {
+            "userName": "feng",
+            "userImg": "http://misc.jiuxian.com/img/usercenter/phoPic06.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l4.png",
+            "userRankName": "酒神",
+            "userLevel": 4,
+            "createTime": 1501400862000,
+            "createTimeStr": "2017-07-30 15:47:42",
+            "firstComment": {
+                "comentId": 4573292,
+                "comentScore": 4,
+                "packageScore": 3,
+                "serviceAttitudeScore": 5,
+                "deliverySpeedScore": 5,
+                "coment": "不错,价格便宜,酒仙独有",
+                "imgList": null,
+                "responseOfService": null,
+                "responseOfServiceDate": null,
+                "createTime": 1501400862000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-07-30 15:47:42"
+        },
+        {
+            "userName": "笑看人生百态",
+            "userImg": "https://img06.jiuxian.com/upheader/temp/0e03e432c08d40548e6c13b5ecf49bef.png",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l4.png",
+            "userRankName": "酒神",
+            "userLevel": 4,
+            "createTime": 1500527530000,
+            "createTimeStr": "2017-07-20 13:12:10",
+            "firstComment": {
+                "comentId": 4511059,
+                "comentScore": 3,
+                "packageScore": 3,
+                "serviceAttitudeScore": 3,
+                "deliverySpeedScore": 5,
+                "coment": "送的太多了",
+                "imgList": null,
+                "responseOfService": null,
+                "responseOfServiceDate": null,
+                "createTime": 1500527530000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-07-20 13:12:10"
+        },
+        {
+            "userName": "大山土豆",
+            "userImg": "https://misc.jiuxian.com/img/usercenter/photo.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l5.png",
+            "userRankName": "酒仙",
+            "userLevel": 5,
+            "createTime": 1500390699000,
+            "createTimeStr": "2017-07-18 23:11:39",
+            "firstComment": {
+                "comentId": 4492612,
+                "comentScore": 3,
+                "packageScore": 0,
+                "serviceAttitudeScore": 0,
+                "deliverySpeedScore": 0,
+                "coment": ",价格便宜",
+                "imgList": null,
+                "responseOfService": null,
+                "responseOfServiceDate": null,
+                "createTime": 1500390699000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-07-18 23:11:39"
+        },
+        {
+            "userName": "大***豆",
+            "userImg": "https://misc.jiuxian.com/img/usercenter/photo.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l5.png",
+            "userRankName": "酒仙",
+            "userLevel": 5,
+            "createTime": 1500390672000,
+            "createTimeStr": "2017-07-18 23:11:12",
+            "firstComment": {
+                "comentId": 4492611,
+                "comentScore": 3,
+                "packageScore": 0,
+                "serviceAttitudeScore": 0,
+                "deliverySpeedScore": 0,
+                "coment": ",价格便宜",
+                "imgList": null,
+                "responseOfService": null,
+                "responseOfServiceDate": null,
+                "createTime": 1500390672000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-07-18 23:11:12"
+        },
+        {
+            "userName": "錘羊羊",
+            "userImg": "https://img06.jiuxian.com/upheader/temp/7aa5cebf0fd0453bb680d87a82b7bb02.png",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l5.png",
+            "userRankName": "酒仙",
+            "userLevel": 5,
+            "createTime": 1500023780000,
+            "createTimeStr": "2017-07-14 17:16:20",
+            "firstComment": {
+                "comentId": 4463824,
+                "comentScore": 4,
+                "packageScore": 5,
+                "serviceAttitudeScore": 5,
+                "deliverySpeedScore": 5,
+                "coment": "好用",
+                "imgList": null,
+                "responseOfService": null,
+                "responseOfServiceDate": null,
+                "createTime": 1500023780000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-07-14 17:16:20"
+        },
+        {
+            "userName": "e***p",
+            "userImg": "https://misc.jiuxian.com/img/usercenter/photo.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l2.png",
+            "userRankName": "酒鬼",
+            "userLevel": 2,
+            "createTime": 1499390070000,
+            "createTimeStr": "2017-07-07 09:14:30",
+            "firstComment": {
+                "comentId": 4424739,
+                "comentScore": 4,
+                "packageScore": 5,
+                "serviceAttitudeScore": 4,
+                "deliverySpeedScore": 4,
+                "coment": "还买喝，包装好，货发的也快。,包装给力,送货快",
+                "imgList": [
+                    {
+                        "imgId": 490080,
+                        "imgUrl": "http://img08.jiuxian.com/eva//2017/0707/251af8182cab48929f5ecceceb7f9aaf.jpg"
+                    },
+                    {
+                        "imgId": 490081,
+                        "imgUrl": "http://img06.jiuxian.com/eva//2017/0707/0cf3cc41772b4aa88e8a243b9b03f8be.jpg"
+                    }
+                ],
+                "responseOfService": null,
+                "responseOfServiceDate": null,
+                "createTime": 1499390070000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-07-07 09:14:30"
+        },
+        {
+            "userName": "酒仙酒友",
+            "userImg": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLDLaFfMyXASgIxGzuAhYpFiaNNFDicBauP1bLryAiaT8BFS1p10SB4lTWC7X7iajoiafjE7rvsdQoI8mzYQfUk9fYN5lMbw0IHOWPwI/0",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l2.png",
+            "userRankName": "酒鬼",
+            "userLevel": 2,
+            "createTime": 1499100373000,
+            "createTimeStr": "2017-07-04 00:46:13",
+            "firstComment": {
+                "comentId": 4403145,
+                "comentScore": 3,
+                "packageScore": 5,
+                "serviceAttitudeScore": 5,
+                "deliverySpeedScore": 5,
+                "coment": "感觉像假酒，一份价钱一份货吧。送的瓶子有瑕疵，还不如不送。不建议购买。酒仙越来越不给力，很失望的一次购物",
+                "imgList": null,
+                "responseOfService": null,
+                "responseOfServiceDate": null,
+                "createTime": 1499100373000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-07-04 00:46:13"
+        },
+        {
+            "userName": "scottiee",
+            "userImg": "http://misc.jiuxian.com/img/usercenter/phoPic10.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l4.png",
+            "userRankName": "酒神",
+            "userLevel": 4,
+            "createTime": 1498625512000,
+            "createTimeStr": "2017-06-28 12:51:52",
+            "firstComment": {
+                "comentId": 4376510,
+                "comentScore": 3,
+                "packageScore": 4,
+                "serviceAttitudeScore": 5,
+                "deliverySpeedScore": 4,
+                "coment": ",包装给力",
+                "imgList": null,
+                "responseOfService": null,
+                "responseOfServiceDate": null,
+                "createTime": 1498625512000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-06-28 12:51:52"
+        }
+    ]
+}

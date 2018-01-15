@@ -1,0 +1,140 @@
+﻿{
+    "promoList": [
+        {
+            "commonProductInfo": {
+                "pid": 18916,
+                "brandId": 2,
+                "category": 1,
+                "imgPath": "http://img09.jiuxian.com/2015/0122/7af49413aa71491b8f5e6ffae93d3cdd4.jpg",
+                "pname": "52°宜宾五粮液股份有限公司·东方娇子500毫升",
+                "jxPrice": 69,
+                "actPrice": 49,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "commonProductInfo": {
+                "pid": 22414,
+                "brandId": 14,
+                "category": 1,
+                "imgPath": "http://img10.jiuxian.com/2015/0810/a1b6186daf1643f9b958977e1a4ecbfe4.jpg",
+                "pname": "52°泸州老窖三人炫1000ml（双瓶装）+52°泸州老窖三人炫100ml",
+                "jxPrice": 189,
+                "actPrice": 179,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "commonProductInfo": {
+                "pid": 45717,
+                "brandId": 27,
+                "category": 1,
+                "imgPath": "http://img08.jiuxian.com/2017/0706/f396faaf487343d4b5e7df25ce8472d04.jpg",
+                "pname": "【老酒特卖】45°西凤大酒海500ml(2007年—2008年)",
+                "jxPrice": 399,
+                "actPrice": 59,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": 1294,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "commonProductInfo": {
+                "pid": 18062,
+                "brandId": 2724,
+                "category": 1,
+                "imgPath": "http://img07.jiuxian.com/2014/1129/b0644fb35ed14ed4a510438416315bdf4.jpg",
+                "pname": "53°五星王子酒（8）480毫升* 2",
+                "jxPrice": 49,
+                "actPrice": 49,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "commonProductInfo": {
+                "pid": 22587,
+                "brandId": 1756,
+                "category": 1,
+                "imgPath": "http://img10.jiuxian.com/2015/0720/3155b28d709648b98f56db489470c4ee4.jpg",
+                "pname": "【礼盒】52°茅台集团国隆珍品一帆风顺礼盒500毫升* 2",
+                "jxPrice": 189,
+                "actPrice": 189,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "commonProductInfo": {
+                "pid": 48067,
+                "brandId": 17,
+                "category": 1,
+                "imgPath": "http://img07.jiuxian.com/2017/0803/6ee6986045b741568e3ab42338b1a5e74.jpg",
+                "pname": "【汾阳王特卖】42°汾阳王府藏600ml+42°汾阳王梦回大唐酒225ml（乐享）",
+                "jxPrice": 128,
+                "actPrice": 59,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "commonProductInfo": {
+                "pid": 51559,
+                "brandId": 2478,
+                "category": 1,
+                "imgPath": "http://img08.jiuxian.com/2017/0922/cbac64e97ce1459bad08f545c3d6d0774.jpg",
+                "pname": "52°金不换秘酿·礼遇500ml*3+42°金不换点赞酒500ml",
+                "jxPrice": 238,
+                "actPrice": 99,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "commonProductInfo": {
+                "pid": 51530,
+                "brandId": 17,
+                "category": 1,
+                "imgPath": "http://img08.jiuxian.com/2017/0921/6bd57720f9e247b3b626b7f7eec557364.jpg",
+                "pname": "【汾阳王特卖】53°汾阳王古法手工酿造1500ml +42°汾阳王梦回大唐酒225ml（乐享）",
+                "jxPrice": 168,
+                "actPrice": 99,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": false
+            }
+        }
+    ]
+}

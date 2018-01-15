@@ -1,0 +1,64 @@
+{
+    "winelist2": [
+                {
+                    "wineId": 100101,
+                    "pic": "https://img07.jiuxian.com/2014/0920/3eee2dc02786464989926cc90ee5c3882.jpg",
+                    "wine_name": "52°全兴头曲·金500ml",
+                    "wine_price": "79.00",
+                    "wine_icon": "https://mlist.jiuxian.com/mjava_statics/images/listIcon.png",
+                    "wine_good": "98%",
+                    "wine_discuss": 7135,
+                    "slogan1": "全兴特卖：满199元送泡椒凤爪泡制料一袋"
+                },
+                {
+                    "wineId": 100102,
+                    "pic": "https://img09.jiuxian.com/2017/0816/bee32519296841b7b4301b2657a669472.jpg",
+                    "wine_name": "【酒仙独家】42°汾酒集团优级杏花村500ml",
+                    "wine_price": "59.00",
+                    "wine_icon": "https://mlist.jiuxian.com/mjava_statics/images/listIcon.png",
+                    "wine_good": "100%",
+                    "wine_discuss": 17225,
+                    "slogan1": "全兴特卖：满199元送泡椒凤爪泡制料一袋"
+                },                              
+                {
+                    "wineId": 100201,
+                    "pic": "https://img09.jiuxian.com/2017/0331/89ccb3c4e1f7486991e1ab2ee8e1e6ed2.jpg",
+                    "wine_name": "法国红酒法国(原瓶进口）保罗·菲尔男爵干红葡萄酒750ml",
+                    "wine_price": "19.00",
+                    "wine_icon": "https://mlist.jiuxian.com/mjava_statics/images/listIcon.png",
+                    "wine_good": "98%",
+                    "wine_discuss": 15807,
+                    "slogan1": "全兴特卖：满199元送泡椒凤爪泡制料一袋"
+                },
+                {
+                    "wineId": 100202,
+                    "pic": "https://img06.jiuxian.com/2016/1024/82eb9ae70fc34c36a105b565f1c1164f2.jpg",
+                    "wine_name": "【酒仙独家】法国整箱红酒法国（原瓶进口)法圣古堡圣威骑士干红葡萄酒750ml（6瓶装）",
+                    "wine_price": "89.00",
+                    "wine_icon": "https://mlist.jiuxian.com/mjava_statics/images/listIcon.png",
+                    "wine_good": "100%",
+                    "wine_discuss": 16792,
+                    "slogan1": "全兴特卖：满199元送泡椒凤爪泡制料一袋"
+                },                   
+                {
+                    "wineId": 100301,
+                    "pic": "https://img07.jiuxian.com/2017/0602/51ef044a8445477d9792ecb6f97314012.jpg",
+                    "wine_name": "【酒仙自营】40°美国杰克丹尼700ml Jack Daniels",
+                    "wine_price": "259.00",
+                    "wine_icon": "https://mlist.jiuxian.com/mjava_statics/images/listIcon.png",
+                    "wine_good": "98%",
+                    "wine_discuss": 3680,
+                    "slogan1": "全兴特卖：满199元送泡椒凤爪泡制料一袋"
+                },
+                {
+                    "wineId": 100302,
+                    "pic": "https://img08.jiuxian.com/2016/0127/c5bb02d8b9a1417cb880b9c6619ad8802.jpg",
+                    "wine_name": "【酒仙自营】40°美国杰克丹尼700ml Jack Daniels",
+                    "wine_price": "139.00",
+                    "wine_icon": "https://mlist.jiuxian.com/mjava_statics/images/listIcon.png",
+                    "wine_good": "97%",
+                    "wine_discuss":11150,
+                    "slogan1": "全兴特卖：满199元送泡椒凤爪泡制料一袋"
+                }                               
+    ]  
+}

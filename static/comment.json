@@ -1,0 +1,94 @@
+{
+    "totalEval": 15142,
+    "goodEval": "99",
+    "proEvalList": [
+        {
+            "evaId": 4995640,
+            "userName": "小徐",
+            "clubUser": false,
+            "content": "酒已经喝了，还可以！这酒性价比比较高，还送了醒酒器比较满意,包装给力,送货快,多次购买",
+            "star": 5,
+            "createTime": "2017-09-25 22:40:27",
+            "imageList": [
+                {
+                    "bigImage": "http://img06.jiuxian.com/eva//2017/0925/77c183f9020e47658b530d9802e87ddd.jpg",
+                    "smallImage": "http://img06.jiuxian.com/eva//2017/0925/77c183f9020e47658b530d9802e87ddd.jpg"
+                },
+                {
+                    "bigImage": "http://img07.jiuxian.com/eva//2017/0925/50ae73c440dd4f2aac564cc7451816a1.jpg",
+                    "smallImage": "http://img07.jiuxian.com/eva//2017/0925/50ae73c440dd4f2aac564cc7451816a1.jpg"
+                }
+            ]
+        },
+        {
+            "evaId": 4950935,
+            "userName": "嘉琦的故事",
+            "clubUser": false,
+            "content": ",送货快",
+            "star": 5,
+            "createTime": "2017-09-22 04:18:11",
+            "imageList": [
+                {
+                    "bigImage": "http://img08.jiuxian.com/eva//2017/0922/29c88efddfbe4c02a14f37c6362b8608.jpg",
+                    "smallImage": "http://img08.jiuxian.com/eva//2017/0922/29c88efddfbe4c02a14f37c6362b8608.jpg"
+                }
+            ]
+        },
+        {
+            "evaId": 4950179,
+            "userName": "henry195",
+            "clubUser": false,
+            "content": ",包装给力,送货快",
+            "star": 5,
+            "createTime": "2017-09-21 16:33:06",
+            "imageList": [
+                {
+                    "bigImage": "http://img07.jiuxian.com/eva//2017/0921/dc32b14681fb4a88b07f2d3c5fddc46e.jpg",
+                    "smallImage": "http://img07.jiuxian.com/eva//2017/0921/dc32b14681fb4a88b07f2d3c5fddc46e.jpg"
+                }
+            ]
+        },
+        {
+            "evaId": 4949803,
+            "userName": "糊涂小王子",
+            "clubUser": false,
+            "content": ",物超所值,有档次,包装给力",
+            "star": 5,
+            "createTime": "2017-09-21 12:02:31",
+            "imageList": [
+                {
+                    "bigImage": "http://img06.jiuxian.com/eva//2017/0921/a37b7f33218b485d83d30a96bd56649d.jpg",
+                    "smallImage": "http://img06.jiuxian.com/eva//2017/0921/a37b7f33218b485d83d30a96bd56649d.jpg"
+                }
+            ]
+        },
+        {
+            "evaId": 4949656,
+            "userName": "a***x",
+            "clubUser": false,
+            "content": "在酒仙网的第一单，包装真是给力，赞！,包装给力,送货快",
+            "star": 5,
+            "createTime": "2017-09-21 10:53:00",
+            "imageList": [
+                {
+                    "bigImage": "http://img06.jiuxian.com/eva//2017/0921/f5791be4698e4ed2a352b1da58deee93.jpg",
+                    "smallImage": "http://img06.jiuxian.com/eva//2017/0921/f5791be4698e4ed2a352b1da58deee93.jpg"
+                }
+            ]
+        },
+        {
+            "evaId": 4929924,
+            "userName": "yimianku",
+            "clubUser": false,
+            "content": "非常感谢,物超所值,酒仙独有",
+            "star": 5,
+            "createTime": "2017-09-18 18:42:57",
+            "imageList": [
+                {
+                    "bigImage": "http://img10.jiuxian.com/eva//2017/0918/08772d3d2b2e4f7487d8c9e10da8606e.jpg",
+                    "smallImage": "http://img10.jiuxian.com/eva//2017/0918/08772d3d2b2e4f7487d8c9e10da8606e.jpg"
+                }
+            ]
+        }
+    ]
+}

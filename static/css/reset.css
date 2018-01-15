@@ -1,0 +1,41 @@
+      /*全局样式*/
+      *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body{
+        font-size: .12rem;
+        font-family: "华文细黑","Microsoft YaHei","黑体",sans-serif
+      }
+      ul,ol{
+        list-style: none;
+      }
+      img{
+        border:none;
+        vertical-align:middle;
+      }
+      a{
+        text-decoration: none;
+        color:#333;
+      }
+      a:hover{
+        color:#f00;
+      }
+      textarea,input,a{
+        outline:none;
+        }
+      textarea{
+        resize:none;
+        }
+      .clearfixed:after{
+        content:".";
+        display:block;
+        clear:both;
+        font-size:0;
+        height:0;
+      }
+      html{
+        font-size: 100px;
+      }
+

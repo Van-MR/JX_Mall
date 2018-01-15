@@ -1,0 +1,92 @@
+{
+    "promoList": [
+        {
+            "commonProductInfo": {
+                "pid": 34254,
+                "brandId": 109,
+                "category": 4,
+                "imgPath": "http://img07.jiuxian.com/2017/0110/70cfbc5d3cf64198b8c3a7a33b6e62694.jpg",
+                "pname": "【酒仙自营】芝华士12年威士忌500毫升+百龄坛500毫升",
+                "jxPrice": 218.00,
+                "actPrice": 218.00,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "commonProductInfo": {
+                "pid": 17911,
+                "brandId": 234,
+                "category": 4,
+                "imgPath": "http://img07.jiuxian.com/2016/0127/950fba2bd634471e9f509827dfd01a144.jpg",
+                "pname": "【酒仙自营】40°美国深蓝伏特加750毫升（原味）（双瓶装）",
+                "jxPrice": 89.00,
+                "actPrice": 89.00,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "commonProductInfo": {
+                "pid": 641,
+                "brandId": 109,
+                "category": 4,
+                "imgPath": "http://img08.jiuxian.com/2016/0630/40867bb5c4054f47acc74133a701c29e4.jpg",
+                "pname": "40°芝华士12年苏格兰威士忌700毫升",
+                "jxPrice": 239.00,
+                "actPrice":209.00,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": 1294,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "commonProductInfo": {
+                "pid": 632,
+                "brandId": 162,
+                "category": 4,
+                "imgPath": "http://img07.jiuxian.com/2015/0923/adec6c5196e241f79ee6f3aa3f4884844.jpg",
+                "pname": "40°俄罗斯旗舰伏特加500毫升",
+                "jxPrice": 58.00,
+                "actPrice": 58.00,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+    
+        {
+            "commonProductInfo": {
+                "pid": 11885,
+                "brandId": 1713,
+                "category": 4,
+                "imgPath": "http://img08.jiuxian.com/2014/0512/bcb5a454c9fa4a98aa3dcf73728800324.jpg",
+                "pname": "法国夏魅XO白兰地700毫升",
+                "jxPrice": 499.00,
+                "actPrice": 499.00,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        }
+ 
+  
+    ]
+}

@@ -1,0 +1,286 @@
+{
+    "proEvalList": [
+        {
+            "userName": "快乐居士",
+            "userImg": "http://misc.jiuxian.com/img/usercenter/phoPic02.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l5.png",
+            "userRankName": "酒仙",
+            "userLevel": 5,
+            "createTime": 1494668910000,
+            "createTimeStr": "2017-05-13 17:48:30",
+            "firstComment": {
+                "comentId": 4086117,
+                "comentScore": 1,
+                "packageScore": 4,
+                "serviceAttitudeScore": 4,
+                "deliverySpeedScore": 4,
+                "coment": "一次买了两个球型醒酒器，准备送朋友，都是烂的，无语。几块钱的东东也难怪。我都不好意思说，大家看吧，酒仙网怎能卖这种劣质产品。",
+                "imgList": [
+                    {
+                        "imgId": 466555,
+                        "imgUrl": "http://img08.jiuxian.com/eva//2017/0513/2b4eb884af334c1a8e596db092213ec1.jpg"
+                    },
+                    {
+                        "imgId": 466556,
+                        "imgUrl": "http://img06.jiuxian.com/eva//2017/0513/0270712b90bd4b13a6003e4fbaac371f.jpg"
+                    },
+                    {
+                        "imgId": 466557,
+                        "imgUrl": "http://img06.jiuxian.com/eva//2017/0513/af8ad8d10db540efa608390db5fd40c6.jpg"
+                    }
+                ],
+                "responseOfService": "人生就是这样，没有完美无缺的人，也没有无瑕的商品，总会有那么一丝的遗憾，这也许正是值得怀念和珍惜的地方吧。我们会不断努力，只是为了让您少一些遗憾，多一些快乐。希望您不要因为这个小插曲影响您饮酒的心情哦，愿您每天都有阳光般的好心情，祝您购物愉快！",
+                "responseOfServiceDate": null,
+                "createTime": 1494668910000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-05-13 17:48:30"
+        },
+        {
+            "userName": "不喝酒的人",
+            "userImg": "https://img06.jiuxian.com/upheader/temp/ec31f15d606041dbae60fa6c8edf3b26.png",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l5.png",
+            "userRankName": "酒仙",
+            "userLevel": 5,
+            "createTime": 1491884280000,
+            "createTimeStr": "2017-04-11 12:18:00",
+            "firstComment": {
+                "comentId": 3905704,
+                "comentScore": 1,
+                "packageScore": 0,
+                "serviceAttitudeScore": 0,
+                "deliverySpeedScore": 0,
+                "coment": "酒仙网做生意不厚道！卖假酒，好评率都是酒仙网自己弄出来的！还有，宅急送堪比王八运输！差评！",
+                "imgList": null,
+                "responseOfService": "亲，我们的酒水都是正规渠道采购，是可以保证质量的呢。若您有任何问题请及时联系在线客服，我们会以优质的服务为您解决任何售后问题，商品的售出不是结束，而是承诺的开始~~~祝您开心快乐每一天！【酒仙-酒友的梦想之家！】^_^",
+                "responseOfServiceDate": null,
+                "createTime": 1491884280000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-04-11 12:18:00"
+        },
+        {
+            "userName": "s帅帅帅哥",
+            "userImg": "https://misc.jiuxian.com/img/usercenter/photo.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l3.png",
+            "userRankName": "酒圣",
+            "userLevel": 3,
+            "createTime": 1491831977000,
+            "createTimeStr": "2017-04-10 21:46:17",
+            "firstComment": {
+                "comentId": 3903258,
+                "comentScore": 1,
+                "packageScore": 0,
+                "serviceAttitudeScore": 0,
+                "deliverySpeedScore": 0,
+                "coment": "用热水烫下的，结果1******度热水直接烫裂开了，我喝水的玻璃杯还能耐得住1******度的温差，这个我还事先用热水先泡了下，才往里面灌开水的",
+                "imgList": null,
+                "responseOfService": null,
+                "responseOfServiceDate": null,
+                "createTime": 1491831977000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-04-10 21:46:17"
+        },
+        {
+            "userName": "老男孩儿",
+            "userImg": "https://img06.jiuxian.com/upheader/temp/2503e76c39914b7a9efb1fbd1dbbe5f3.png",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l4.png",
+            "userRankName": "酒神",
+            "userLevel": 4,
+            "createTime": 1491275906000,
+            "createTimeStr": "2017-04-04 11:18:26",
+            "firstComment": {
+                "comentId": 3878237,
+                "comentScore": 1,
+                "packageScore": 5,
+                "serviceAttitudeScore": 5,
+                "deliverySpeedScore": 5,
+                "coment": "花亲钱买的坏的。",
+                "imgList": [
+                    {
+                        "imgId": 448428,
+                        "imgUrl": "http://img06.jiuxian.com/eva//2017/0404/b3d801417c8a4522b8db903a8c2da23d.jpg"
+                    },
+                    {
+                        "imgId": 448429,
+                        "imgUrl": "http://img08.jiuxian.com/eva//2017/0404/2d17a673f4ee442687a93a2c02866956.jpg"
+                    }
+                ],
+                "responseOfService": "感恩您，愿您一切美好。我们的工作宗旨是：用心每一单，满意每一位客户。若产品有任何问题请及时联系在线客服，我们会以优质的服务为您解决任何售后问题，商品的售出不是结束，而是承诺的开始~~~祝您开心快乐每一天！【酒仙-酒友的梦想之家！】^_^",
+                "responseOfServiceDate": null,
+                "createTime": 1491275906000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-04-04 11:18:26"
+        },
+        {
+            "userName": "jxw94280660",
+            "userImg": "https://misc.jiuxian.com/img/usercenter/photo.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l2.png",
+            "userRankName": "酒鬼",
+            "userLevel": 2,
+            "createTime": 1486264794000,
+            "createTimeStr": "2017-02-05 11:19:54",
+            "firstComment": {
+                "comentId": 3435598,
+                "comentScore": 1,
+                "packageScore": 1,
+                "serviceAttitudeScore": 1,
+                "deliverySpeedScore": 1,
+                "coment": "根本没有收到！！！是工作人员太粗心了，还是？",
+                "imgList": null,
+                "responseOfService": "亲，请您将遇到的详细情况拍照发送到邮箱kefu@jiuxian.com，发送时需要备注上您的订单信息及联系方式。工作人员会在24小时内与您取得联系，请您保持手机畅通，祝您购物愉快！",
+                "responseOfServiceDate": null,
+                "createTime": 1486264794000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2017-02-05 11:19:54"
+        },
+        {
+            "userName": "jxw34181069",
+            "userImg": "https://misc.jiuxian.com/img/usercenter/photo.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l3.png",
+            "userRankName": "酒圣",
+            "userLevel": 3,
+            "createTime": 1473769666000,
+            "createTimeStr": "2016-09-13 20:27:46",
+            "firstComment": {
+                "comentId": 1555812,
+                "comentScore": 1,
+                "packageScore": 4,
+                "serviceAttitudeScore": 4,
+                "deliverySpeedScore": 5,
+                "coment": "压根没看到有",
+                "imgList": null,
+                "responseOfService": "亲，请您将遇到的详细情况拍照发送到邮箱kefu@jiuxian.com，发送时需要备注上您的订单信息及联系方式。工作人员会在24小时内与您取得联系，请您保持手机畅通，祝您购物愉快！",
+                "responseOfServiceDate": null,
+                "createTime": 1473769666000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2016-09-13 20:27:46"
+        },
+        {
+            "userName": "小酌怡情",
+            "userImg": "https://img06.jiuxian.com/upheader/temp/c451d6e6e74246caae3054d45d1bb226.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l2.png",
+            "userRankName": "酒鬼",
+            "userLevel": 2,
+            "createTime": 1459414759000,
+            "createTimeStr": "2016-03-31 16:59:19",
+            "firstComment": {
+                "comentId": 1304080,
+                "comentScore": 1,
+                "packageScore": 0,
+                "serviceAttitudeScore": 0,
+                "deliverySpeedScore": 0,
+                "coment": "没有赠送还用评价毛线啊",
+                "imgList": null,
+                "responseOfService": "亲爱的酒友您好，给您带来的不便还请您谅解，查看您订单显示有赠送5件套的，如果您没有收到5件套，可以将您收到的酒水拍照发邮箱kefu@jiuxian.com我们会及时为您核实处理的，感谢您对我们的支持，祝您生活愉快！",
+                "responseOfServiceDate": null,
+                "createTime": 1459414759000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2016-03-31 16:59:19"
+        },
+        {
+            "userName": "jxw37506055",
+            "userImg": "https://misc.jiuxian.com/img/usercenter/photo.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l3.png",
+            "userRankName": "酒圣",
+            "userLevel": 3,
+            "createTime": 1459354853000,
+            "createTimeStr": "2016-03-31 00:20:53",
+            "firstComment": {
+                "comentId": 1302878,
+                "comentScore": 1,
+                "packageScore": 0,
+                "serviceAttitudeScore": 0,
+                "deliverySpeedScore": 0,
+                "coment": "不要钱不评价，，，，，",
+                "imgList": null,
+                "responseOfService": "亲爱的酒友您好，此款酒刀还是不错的，您开启酒水的时候可以使用的，感谢您对我们的支持，祝您生活愉快！",
+                "responseOfServiceDate": null,
+                "createTime": 1459354853000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2016-03-31 00:20:53"
+        },
+        {
+            "userName": "jxw45349595",
+            "userImg": "https://misc.jiuxian.com/img/usercenter/photo.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l2.png",
+            "userRankName": "酒鬼",
+            "userLevel": 2,
+            "createTime": 1458293425000,
+            "createTimeStr": "2016-03-18 17:30:25",
+            "firstComment": {
+                "comentId": 1285701,
+                "comentScore": 1,
+                "packageScore": 0,
+                "serviceAttitudeScore": 0,
+                "deliverySpeedScore": 0,
+                "coment": "赠品嘉年华黑珍珠海马酒刀没有收到",
+                "imgList": null,
+                "responseOfService": "尊敬的酒友您好，抱歉给您带来的不便，建议您在箱底仔细查找呢，如您确实未收到酒刀，还请您将没有收到酒刀的酒水照片发到我们的破损邮箱ps@jiuxian.com，我们会及时的为您核实处理，给您带来的不便还请您谅解，感谢您的支持，祝您生活愉快！",
+                "responseOfServiceDate": null,
+                "createTime": 1458293425000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2016-03-18 17:30:25"
+        },
+        {
+            "userName": "sunshiqi",
+            "userImg": "https://misc.jiuxian.com/img/usercenter/photo.jpg",
+            "userLevelImg": "https://misc.jiuxian.com/img/userlevel/l4.png",
+            "userRankName": "酒神",
+            "userLevel": 4,
+            "createTime": 1458179390000,
+            "createTimeStr": "2016-03-17 09:49:50",
+            "firstComment": {
+                "comentId": 1282974,
+                "comentScore": 1,
+                "packageScore": 0,
+                "serviceAttitudeScore": 0,
+                "deliverySpeedScore": 0,
+                "coment": "第一次用就坏了，质量很差。",
+                "imgList": null,
+                "responseOfService": "亲爱的酒友您好：给您带来不便还请谅解，您反馈的问题我们会多多完善改进的，如果您有什么问题可以随时联系我们的呢，感谢您的支持，祝您生活愉快!",
+                "responseOfServiceDate": null,
+                "createTime": 1458179390000,
+                "evaluateDate": null
+            },
+            "oneAndNextEvaulateDays": null,
+            "onceComment": null,
+            "clubUser": false,
+            "createTimeDate": "2016-03-17 09:49:50"
+        }
+    ]
+}

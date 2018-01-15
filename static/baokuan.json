@@ -1,0 +1,267 @@
+﻿{
+    "totalCount": 49,
+    "promoList": [
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "冰点价",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ffa855"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 22414,
+                "brandId": 14,
+                "category": 1,
+                "imgPath": "http://img10.jiuxian.com/2015/0810/a1b6186daf1643f9b958977e1a4ecbfe4.jpg",
+                "pname": "52°泸州老窖三人炫1000ml（双瓶装）+52°泸州老窖三人炫100ml",
+                "jxPrice": 189,
+                "actPrice": 179,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "限时抢购",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ffa855"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 50659,
+                "brandId": 3941,
+                "category": 2,
+                "imgPath": "http://img10.jiuxian.com/2017/0909/4d228dbf82644a82965b89c0f8fc94234.jpg",
+                "pname": "【红洋酒特卖】智利干露.克拉克干红葡萄酒750ml*2（双支礼盒套装）",
+                "jxPrice": 157,
+                "actPrice": 99,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "手机专享价",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ff6266"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 51401,
+                "brandId": 206,
+                "category": 1,
+                "imgPath": "http://img06.jiuxian.com/2017/0920/e5f691e7c7e94e058c1a1f8fcf5774ef4.jpg",
+                "pname": "52°酒鬼馥郁天成1L+竹报平安精致7件套酒具",
+                "jxPrice": 329,
+                "actPrice": 299,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "限时抢购",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ffa855"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 51607,
+                "brandId": 4179,
+                "category": 2,
+                "imgPath": "http://img10.jiuxian.com/2017/0922/6651e6fc47774bc68551f021036739424.jpg",
+                "pname": "【红洋酒特卖】整箱红酒西班牙DO级安徒生美人鱼干红葡萄酒750ml*12 +鳄鱼皮六支装皮盒中秋礼盒套装",
+                "jxPrice": 567,
+                "actPrice": 339,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "限时抢购",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ffa855"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 45717,
+                "brandId": 27,
+                "category": 1,
+                "imgPath": "http://img08.jiuxian.com/2017/0706/f396faaf487343d4b5e7df25ce8472d04.jpg",
+                "pname": "【老酒特卖】45°西凤大酒海500ml(2007年—2008年)",
+                "jxPrice": 399,
+                "actPrice": 59,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": 1294,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "掌上秒拍",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ff6266"
+                },
+                {
+                    "type": 23,
+                    "name": "满得",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#5eaffe"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 48067,
+                "brandId": 17,
+                "category": 1,
+                "imgPath": "http://img07.jiuxian.com/2017/0803/6ee6986045b741568e3ab42338b1a5e74.jpg",
+                "pname": "【汾阳王特卖】42°汾阳王府藏600ml+42°汾阳王梦回大唐酒225ml（乐享）",
+                "jxPrice": 128,
+                "actPrice": 59,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": false
+            }
+        },
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "限时抢购",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ffa855"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 44314,
+                "brandId": 4209,
+                "category": 2,
+                "imgPath": "http://img08.jiuxian.com/2017/0621/88143270f93844fbae8b2e72a898c0fc4.jpg",
+                "pname": "【红洋酒特卖】智利魅利缤纷葡萄酒6支木礼盒套装",
+                "jxPrice": 219,
+                "actPrice": 189,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": false
+            }
+        },
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "限时抢购",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ffa855"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 46261,
+                "brandId": 16,
+                "category": 1,
+                "imgPath": "http://img06.jiuxian.com/2017/0710/8c4d50eb50694084b5f4cdebee11f7984.jpg",
+                "pname": "【老酒特卖】38°董酒500ml(90年代早期)",
+                "jxPrice": 698,
+                "actPrice": 398,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": 1294,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        },
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "掌上秒拍",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ff6266"
+                },
+                {
+                    "type": 23,
+                    "name": "满得",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#5eaffe"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 51395,
+                "brandId": 17,
+                "category": 1,
+                "imgPath": "http://img06.jiuxian.com/2017/0919/7f8c771837084827a2f6e999815889484.jpg",
+                "pname": "【汾阳王特卖】42°汾阳王吉祥1000ml（6瓶装）+ 53°汾阳王府事事如意青釉封藏大坛酒1500ml+42°汾阳王梦回大唐酒225ml（乐享）（6瓶）",
+                "jxPrice": 1297,
+                "actPrice": 387,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": false
+            }
+        },
+        {
+            "promo": [
+                {
+                    "type": 14,
+                    "name": "限时抢购",
+                    "wordColor": "#FFFFFF",
+                    "backColor": "#ffa855"
+                }
+            ],
+            "commonProductInfo": {
+                "pid": 17575,
+                "brandId": 1562,
+                "category": 1,
+                "imgPath": "http://img08.jiuxian.com/2014/1028/36862faffea443ccbaa1bc51b569ae584.jpg",
+                "pname": "【酒仙独家】53°汾酒集团青瓷一坛香1500ml",
+                "jxPrice": 299,
+                "actPrice": 119,
+                "clubPrice": null,
+                "subTitle": null,
+                "shopId": null,
+                "noSale": false,
+                "onSale": true,
+                "inventoryExists": true
+            }
+        }
+    ]
+}
